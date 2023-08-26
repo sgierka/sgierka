@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylwia</h1>
-<h4 align="center">and I recently started learning Python.</h4>
-
-
-<h5 align = "center">
-  
-  I'm currently working on [Price Monitoring](https://github.com/sgierka/price-monitoring). </h5>
+<h4 align="center">and I'm just vibing with Python </h4>
 
 
 
