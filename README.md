@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sylwia</h1>
-<h4 align="center">and I'm just vibing with Python </h4>
+<h4 align="center">just vibing with Python </h4>
 
 
 
